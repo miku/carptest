@@ -32,3 +32,11 @@ Example files, which may contain some errors:
 * FREIBOURG
 * HAALLe (Saal)
 * Leippzig
+
+Weitere Orte:
+
+* MARC-Klebberg
+* Meizen
+* Grime-a
+* Rießa
+
