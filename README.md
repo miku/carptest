@@ -16,3 +16,10 @@ Feel free to:
 * change this file (add text, correct typos, remove things, ...)
 * add new files
 
+----
+
+Example files, which may contain some errors:
+
+* [ISIL](ISIL.md)
+* [Latin](Latin.md)
+* [Places](Places.md)
