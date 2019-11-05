@@ -20,6 +20,15 @@ Feel free to:
 
 Example files, which may contain some errors:
 
-* [ISIL](ISIL.md)
 * [Latin](Latin.md)
 * [Places](Places.md)
+
+----
+
+# Orte
+
+* BOONnN
+* Ddresdden
+* FREIBOURG
+* HAALLe (Saal)
+* Leippzig
