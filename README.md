@@ -21,7 +21,7 @@ Feel free to:
 Example files, which may contain some errors:
 
 * [Latin](Latin.md)
-* [Places](Places.md)
+* [ISIL](ISIL.md)
 
 ----
 
