@@ -16,31 +16,3 @@ Feel free to:
 * change this file (add text, correct typos, remove things, ...)
 * add new files
 
-----
-
-* BOONnN
-* Ddresdden
-* FREIBOURG
-* HAALLe (Saal)
-* Leippzig
-
-----
-
-* DE-9928 SLUB DRESDEN
-* DE-1515 UB Leipzig
-* DE-X919 TU Freiberg
-* DE-ABCD UB Halle
-* De-2121 UB Bonn
-
-----
-
-
-----
-
-# Lorem ipslamm
-
-Corrupti ut ut dolore rerumm et ut laudantium. Eaque provident officiis maxime
-fugiat reprehenderit corporis quidem consequuntur. Qui qui qui labore dicta
-repudiandae velit corporis. Iste et molestiae eum dolor. Ut quo incidunt odit
-labore.
-
